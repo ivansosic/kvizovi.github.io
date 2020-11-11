@@ -1,0 +1,13 @@
+*.img-thumbnail1 {
+    padding-bottom: 120px;
+    float:left;
+}
+
+.container {
+    display:inline-block;
+    margin-left:20px;
+    
+    width: 300px;
+    height: 400px;
+  }
+  
